@@ -11,3 +11,18 @@ NEVER CLONE A REPO INTO A REPO
   - git push origin main = pushes local repo to remote repo
 
   - git status = check mismatches between work, staging, local, origin
+
+
+---
+
+
+# Branching
+
+Viewing Branches
+ - git branch -a = see all branches
+
+Creating Branch
+ - git checkout -b [name] = add new branch and moved us onto it
+
+Move onto Branch
+ - git checkout [name] = moves us onto existing branch

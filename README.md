@@ -26,3 +26,8 @@ Creating Branch
 
 Move onto Branch
  - git checkout [name] = moves us onto existing branch
+
+Pushing Branch to Main
+ - git push origin [name] = pushes branch to main
+ - origin > remote > github
+ - [name] > branch with changes we want to add

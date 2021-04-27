@@ -31,3 +31,7 @@ Pushing Branch to Main
  - git push origin [name] = pushes branch to main
  - origin > remote > github
  - [name] > branch with changes we want to add
+
+
+# Change-test
+ - Tests for pushing the new branch my-new-feature
